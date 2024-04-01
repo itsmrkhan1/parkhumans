@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "859490170130",
+    "firebase_url": "https://park-humans-default-rtdb.firebaseio.com",
+    "project_id": "park-humans",
+    "storage_bucket": "park-humans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859490170130:android:dd57cefdfead3d1b98afcb",
+        "android_client_info": {
+          "package_name": "com.park_humans.newappname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVnYmHqSKaCA8eBAaOxOlpCi6U0RIGB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
